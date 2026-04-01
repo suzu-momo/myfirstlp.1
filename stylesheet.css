@@ -231,6 +231,11 @@ footer {
     margin-right: 0;
   }
 
+ .lesson img {
+    width: 100%;
+    height: auto;
+  }
+  
   /* ボタン周り */
   .btn-wrapper {
     text-align: center;
