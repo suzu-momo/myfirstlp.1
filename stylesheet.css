@@ -194,3 +194,45 @@ footer {
     width: 100%;
     padding: 0 15px;
   }
+
+    /* ヘッダー */
+  header {
+    height: auto;
+  }
+
+  .logo {
+    width: 140px;
+    margin: 10px 0;
+  }
+
+  /* ファーストビュー */
+  .top-wrapper {
+    padding: 100px 20px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 26px;
+    letter-spacing: 2px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  /* ボタンを縦並びに */
+  .btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .facebook {
+    margin-right: 0;
+  }
+
+  /* ボタン周り */
+  .btn-wrapper {
+    text-align: center;
+  }
+}
