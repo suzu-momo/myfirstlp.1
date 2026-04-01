@@ -9,7 +9,7 @@ a {
 
 /* containerクラスのCSSを指定してください */
 .container {
-  width: 1170px;
+  max-wide: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -222,7 +222,7 @@ footer {
   /* ボタンを縦並びに */
   .btn {
     display: block;
-    width: 50%;
+    width: 100%;
     margin-bottom: 10px;
     text-align: center;
   }
