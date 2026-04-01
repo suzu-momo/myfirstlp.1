@@ -187,3 +187,10 @@ footer p {
 footer {
     padding-top: 30px;
 }
+@media (max-width: 768px) {
+
+  /* コンテナを画面幅に合わせる */
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
