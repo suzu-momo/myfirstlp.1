@@ -235,8 +235,17 @@ footer {
   .btn-wrapper {
     text-align: center;
   }
-}
+
+  .lesson {
+    float: none;
+  }
+  
   img {
     width: 100%;
     height: auto;
   }
+  .lesson {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+｝
