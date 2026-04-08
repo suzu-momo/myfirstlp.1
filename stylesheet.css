@@ -11,6 +11,9 @@ a {
   text-decoration: none;
 }
 
+.clear {
+   clear: left;
+}
 /* containerクラスのCSSを指定してください */
 .container {
   width: 100%;
