@@ -1,3 +1,7 @@
+* {
+   box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
@@ -9,7 +13,7 @@ a {
 
 /* containerクラスのCSSを指定してください */
 .container {
-  max-width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -188,3 +192,8 @@ footer {
     padding-top: 30px;
 }
 
+@media(max-width: 670px) {
+  header {
+    width: 100%;
+  }
+}
