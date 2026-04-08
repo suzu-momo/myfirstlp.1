@@ -58,5 +58,9 @@ footer {
   .top-wrapper p {
     font-size: 14px;
   }
+
+  .btn message {
+    width: 80%;
+  }
   
 }
